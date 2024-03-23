@@ -11,5 +11,5 @@ for i in zakupy2.keys():
 
 shopping_list = ["marchew", "seler", "rukola", "chleb", "pączek", "bułka"]
 print("W sumie kupię ", len(shopping_list), "produktów")
-print("Działa czy nie działa??")
-print("Kolejny test 1,2,3")
+print("No teraz to musi działać")
+print("Teraz to już osttani test")
